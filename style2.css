@@ -1,0 +1,54 @@
+@media (max-width: 900px){
+
+    .progress{
+        height: 8Spx;
+    }
+    body{
+        display: flex;
+        height: 95vh;
+        flex-direction: column;
+    }
+    h1{
+        margin: 20px;
+        text-align: center;
+        margin-top: 120px;
+        font-size: 100px;
+        margin-bottom: 20px;
+    }
+    h2{
+        margin: 20px;
+        text-align: center;
+        font-size: 40px;
+    }
+    .start{
+        margin-top: 130px;
+        margin-bottom: 40px;
+        font-size: 30px;
+        width: 300px;
+        height: 80px;
+    }
+    footer{
+        margin-top: 1000px
+        font-size: 15px;
+        height: 5vh;
+    }
+    .question{
+        font-size: 25px;
+        text-align: center;
+        margin-bottom: 5cqb;
+    }
+    .option{
+        height: 60px;
+        font-size: 30px;
+        text-align: center;
+    }
+    .option span{
+        height: 60px;
+        width: 60px;
+        font-size: 30px;
+    }
+
+    
+
+
+}
